@@ -1,0 +1,29 @@
+:root {
+    --color-dark: #24232b;
+    --color-dark-2: #13121a; 
+    --color-dark-3: #000000;
+}
+
+
+body {
+    background-color: var(--color-dark-3);
+    color: white;
+    margin: 0;
+    padding: 0;
+    
+}
+
+main {
+   
+    text-align: center;
+    margin: auto;
+    width: 15rem;
+    padding: 30px;
+    border-radius: 10px;
+    font-size: xxx-large;
+    margin-top: 18rem;
+    background-color: var(--color-dark-2);
+
+}
+
+
